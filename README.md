@@ -1,6 +1,6 @@
 ## OnlinePolling_Blockchain
 Smart contract is written in Solidity to guide the rules of voting. Blockchain is simulated as ganache framework.
-![]<images/a2.png>
+![](images/a2.png)
 
 
 ## Step 1.Install Dependencies
@@ -15,12 +15,12 @@ Open the Ganache GUI client that you downloaded and installed. This will start y
 ## Step 3. Compile & Deploy Election Smart Contract
 `$ truffle migrate --reset`
 Do this each time after restaring ganache.
-![]<images/a1.png>
+![](images/a1.png)
 
 ## Step 4. Run the Front End Application
 `$ npm run dev`
 
-![]<images/a0.png>
+![](images/a0.png)
 
 
 
