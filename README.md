@@ -15,12 +15,12 @@ Open the Ganache GUI client that you downloaded and installed. This will start y
 ## Step 3. Compile & Deploy Election Smart Contract
 `$ truffle migrate --reset`
 Do this each time after restaring ganache.
-![](images/a1.png)
+<img.src="images/a1.PNG" width="800"> 
 
 ## Step 4. Run the Front End Application
 `$ npm run dev`
 
-![](images/a0.png)
+<img.src="images/a0.png" width="800"> 
 
 
 
