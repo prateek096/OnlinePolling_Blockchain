@@ -1,6 +1,6 @@
 ## OnlinePolling_Blockchain
 Smart contract is written in Solidity to guide the rules of voting. Blockchain is simulated as ganache framework.
-![](images/a2.png)
+![](images/a4.png)
 
 
 ## Step 1.Install Dependencies
