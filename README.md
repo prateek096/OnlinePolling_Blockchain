@@ -5,12 +5,12 @@ Smart contract is written in Solidity to guide the rules of voting. Blockchain i
 
 ### Dependencies
 - NPM: https://nodejs.org
-- Truffle: https://github.com/trufflesuite/truffle
 - Ganache: http://truffleframework.com/ganache/
+- Truffle: https://github.com/trufflesuite/truffle
 - Metamask: https://metamask.io/
 
 ### Run Ganache
-Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. See free video tutorial for full explanation.
+It simulates local blockchain instance.
 
 ### Compile & Deploy Smart Contract
 `$ truffle migrate --reset`
